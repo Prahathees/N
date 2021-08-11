@@ -5,5 +5,8 @@ public class Desk {
 System.out.println("top");
 }
 
+	public void dom() {
+System.out.println("uh");
+	}
 
 }
